@@ -21,8 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,mongodb,git,java,jenkins,linux,mysql,selenium)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ansible,postman,aws,mongodb,git,java,jenkins,linux,mysql,selenium)](https://skillicons.dev)
 
 <div>
 <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
