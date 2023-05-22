@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Cloud infrastructure provisioning and Linux understanding.**
 
-- 💬 Ask me about **Ansible, Jenkins and Quality Assurance.**
+- 💬 Ask me about **API Testing, Quality Assurance, Ansible, and Jenkins.**
 
 - 📫 How to reach me **bobadesagarwd@gmail.com**
 
