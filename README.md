@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **API Testing, Quality Assurance, Ansible, and Jenkins.**
 
-- 📫 How to reach me **bobadesagarwd@gmail.com**
+- 📫 How to reach me **bobadesagarwd@gmail.com**, **https://www.linkedin.com/in/sagar-bobade/**
 
 - ⚡ Fun fact **I think, technologies attracts me.**
 
